@@ -23,4 +23,4 @@ Research Interest
 * Edge Intelligence
 * Graph Computation/ Graph Neural Network
 * Federated Learning
-* Welcome to apply for bachelor degree in computer, Mathematics, communication, automation or related majors!
+Welcome to apply for bachelor degree in computer, Mathematics, communication, automation or related majors!
