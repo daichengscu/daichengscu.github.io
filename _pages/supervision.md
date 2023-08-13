@@ -7,7 +7,6 @@ author_profile: true
 
 ## Graduate Students
 ### 2022
-* Shuai Wei, Master Student
 * Guangdong He, Master Student
 
 ### 2023
