@@ -16,11 +16,12 @@ Sichuan University, China
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
+
 Research Interest
 ======
 * Artificial Intelligence
 * Computer Vision
 * Edge Intelligence
 * Graph Computation/ Graph Neural Network
-* Federated Learning
-* **Welcome to apply for bachelor degree in computer, Mathematics, communication, automation or related majors!**
+* Federated Learning<br/><br/>
+**Welcome to apply for bachelor degree in computer, Mathematics, communication, automation or related majors!**
