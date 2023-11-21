@@ -29,4 +29,4 @@ Research Interest
 * Graph Computation/ Graph Neural Network
 * Federated Learning<br/>
 
-**Welcome to apply for bachelor degree in computer, Mathematics, communication, automation or related majors!**
+**Welcome to apply for bachelor degree in Computer Science, Mathematics, Communication Engineering, Automation or related majors!**
