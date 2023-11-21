@@ -16,6 +16,10 @@ Sichuan University, China
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
+News
+======
+* [2023.11] One of our work on <div id='content-red'>Applied Soft Computing</div> is under review.
+* [2023.11] One of our work on <div id='content-red'>IEEE Transactions on Consumer Electronics</div> is under review.<br/>
 
 Research Interest
 ======
