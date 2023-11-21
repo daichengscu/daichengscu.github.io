@@ -13,3 +13,12 @@ author_profile: true
 * Shoupeng Lu, Master Student
 * Banglie Yang, Master Student
 * Song Bao, Master Student
+
+### 2024
+* Junqi Pan, Master Student
+* Tianli Zhu, Master Student
+* Sha Xiang, Master Student
+
+## Undergraduate Students
+### 2023
+* Peng Wang, Undergraduate Student

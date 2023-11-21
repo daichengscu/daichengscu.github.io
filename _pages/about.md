@@ -18,8 +18,9 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
-* [2023.11] One of our work on <span style="color: #FF0000">Applied Soft Computing</span> is under review.
-* [2023.11] One of our work on <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> is under review.<br/>
+* [2023.11] One of our work on <span style="color: #FF0000">Applied Soft Computing</span> gets Major revision.
+* [2023.11] One of our work on <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> gets Major revision.
+* [2023.8] One of our work on <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span> is accepted.<br/>
 
 Research Interest
 ======
@@ -29,4 +30,4 @@ Research Interest
 * Graph Computation / Graph Neural Network
 * Federated Learning<br/>
 
-**Welcome to apply for bachelor degree in Computer Science, Mathematics, Communication Engineering, Automation or related majors!**
+**Students with undergraduate majors in Computer Science, Mathematics, Communication Engineering, Automation, or related fields are warmly welcomed!**
