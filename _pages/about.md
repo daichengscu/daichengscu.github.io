@@ -18,8 +18,8 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
-* [2023.11] One of our work on <div id='content-red'>Applied Soft Computing</div> is under review.
-* [2023.11] One of our work on <div id='content-red'>IEEE Transactions on Consumer Electronics</div> is under review.<br/>
+* [2023.11] One of our work on <span style="color: #FF0000">Applied Soft Computing</span> is under review.
+* [2023.11] One of our work on <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> is under review.<br/>
 
 Research Interest
 ======
