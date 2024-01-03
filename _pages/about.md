@@ -18,12 +18,12 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
-* [2024.1] One of our work on <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> is accepted!
-* [2023.12] One of our work on <span style="color: #FF0000">Applied Soft Computing</span> is accepted!
-* [2023.12] One of our work on <span style="color: #FF0000">Neurocomputing</span> gets Major revision.
-* [2023.11] One of our work on <span style="color: #FF0000">Applied Soft Computing</span> gets Major revision.
-* [2023.11] One of our work on <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> gets Major revision.
-* [2023.8] One of our work on <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span> is accepted!<br/>
+* [2024.1] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span>!
+* [2023.12] One of our works is accepted by <span style="color: #FF0000">Applied Soft Computing</span>!
+* [2023.12] One of our submissions to <span style="color: #FF0000">Neurocomputing</span> gets Major revision.
+* [2023.11] One of our submissions to <span style="color: #FF0000">Applied Soft Computing</span> gets Major revision.
+* [2023.11] One of our submissions to <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> gets Major revision.
+* [2023.8] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>!<br/>
 
 Research Interest
 ======
@@ -33,4 +33,4 @@ Research Interest
 * Graph Computation / Graph Neural Network
 * Federated Learning<br/>
 
-**Students with undergraduate majors in Computer Science, Mathematics, Communication Engineering, Automation, or related fields are warmly welcomed!**
+**Students majoring in Computer Science, Mathematics, Communication Engineering and Automation are warmly welcomed!**
