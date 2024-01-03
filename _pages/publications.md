@@ -7,6 +7,8 @@ author_profile: true
 *indicating the corresponding author
 
 ## Journal Papers
+1. **Dai C**, Lu S,  Ma C, et al. An Adaptive Rank based Tensor Ring Data Completion Model for Intelligent Transportation Systems. <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span>, 2024.
+
 1. **Dai C**, Lu S, Liu C, et al. A light-weight skeleton human action recognition model with knowledge distillation for edge intelligent surveillance applications. <span style="color: #FF0000">Applied Soft Computing</span>, 2023.
 
 2. **Dai C**, Zhang Y, Zheng Z. A Nonlocal Similarity Learning-Based Tensor Completion Model With Its Application in Intelligent Transportation System. <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>, 2023.
