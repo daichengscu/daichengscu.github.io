@@ -7,14 +7,14 @@ author_profile: true
 
 ## Grants
 
-* Research on tensor deep computation model for video human action recognition on edge intelligence, National Natural Science Foundation of China.
-* Deep models for tensor-based computation, Central University Operating Fund Project.
-* Research on key technologies for video edge intelligent applications, Key Research and development Projects of Sichuan Province.
-* Research and application of key technologies of high-precision road network data holographic intelligent perception and real-time scene modeling, Key Research and development Projects of Sichuan Province(Key Project).
-* Research on real-time integrated analysis technology of hydropower multi-source data, Collaborative research projects between enterprises.
-* Research on key technologies of skeleton action recognition for edge intelligent systems, Open subject of Engineering Research Center of Ministry of Education.
+* Research on Deep Tensor Computation based Video Human Action Recognition Model for Edge Intelligence, National Natural Science Foundation of China.
+* Research on Tensor Computation based Deep Models, Fundamental Research Funds for the Central Universities.
+* Research on Key Technologies for Video based Edge Intelligent Applications, Applied Basic Research Key Programs of Science and Technology Department of SichuanProvince.
+* Research and Applications of Key Technologies for High-Precision Road Network Data in Holographicly Intelligent Perception and Real-Time Scene Modeling, Applied Basic Research Key Programs of Science and Technology Department of SichuanProvince.
+* Research on Technology for Multi-Source Hydropower Data in Real-Time Integrated Analysis, The Enterprise cooperation project.
+* Research on Key Technologies of Skeleton Action Recognition for Edge Intelligent Systems, The open project of Engineering Research Center of Software/Hardware Co-design Technology and Application, Ministry of Education.
 
 ## Honors
 
 * Visiting Scholar of the McMaster University, Canada.
-* 2021, IEEE TCSC Outstanding Ph.D. Dissertation Award.
+* IEEE TCSC Outstanding Ph.D. Dissertation Award.
