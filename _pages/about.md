@@ -21,9 +21,9 @@ News
 * [2024.3] One of our works is accepted by <span style="color: #FF0000">Neurocomputing</span>!
 * [2024.1] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span>!
 * [2023.12] One of our works is accepted by <span style="color: #FF0000">Applied Soft Computing</span>!
-* [2023.12] One of our submissions to <span style="color: #FF0000">Neurocomputing</span> gets Major revision.
-* [2023.11] One of our submissions to <span style="color: #FF0000">Applied Soft Computing</span> gets Major revision.
-* [2023.11] One of our submissions to <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> gets Major revision.
+* [2023.12] One of our submissions to <span style="color: #FF0000">Neurocomputing</span> gets Major Revision.
+* [2023.11] One of our submissions to <span style="color: #FF0000">Applied Soft Computing</span> gets Major Revision.
+* [2023.11] One of our submissions to <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span> gets Major Revision.
 * [2023.8] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>!<br/>
 
 Research Interest
