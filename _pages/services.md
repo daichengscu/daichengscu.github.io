@@ -11,7 +11,7 @@ author_profile: true
 * Member of CCF TCEBS.
 * Executive Chair of The 24th IEEE International Conference 2022 on High Performance Computing and Communications (IEEE HPCC2022).
 * Track Chair of The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC2022).
-* General Chair of The 16th IEEE International Conference on Cyber, Physical and Social Computing (IEEE CPSCom 2023).
+* General Chair of The 16th IEEE International Conference on Cyber, Physical and Social Computing (IEEE CPSCom2023).
 * Local Chair of The 4th IEEE International Conference on Intelligent Technology and Embedded Systems (IEEE ICITES2024).
 * Guest Speaker of The 2nd IEEE International Conference on Intelligent Technology and Embedded Systems (IEEE ICITES2022).
 * TPC Member of IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE Trustcom).
