@@ -9,11 +9,11 @@ author_profile: true
 
 * Reviewer of National Nature Science Foundation of China.
 * Member of CCF TCEBS.
-* Executive Chair of The 24th IEEE International Conference 2022 on High Performance Computing and Communications (IEEE HPCC2022).
-* Track Chair of The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC2022).
-* General Chair of The 16th IEEE International Conference on Cyber, Physical and Social Computing (IEEE CPSCom2023).
-* Local Chair of The 4th IEEE International Conference on Intelligent Technology and Embedded Systems (IEEE ICITES2024).
-* Guest Speaker of The 2nd IEEE International Conference on Intelligent Technology and Embedded Systems (IEEE ICITES2022).
-* TPC Member of IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE Trustcom).
-* TPC Member of IEEE International Conference on Cyber, Physical and Social Computing (IEEE CPScom).
-* TPC Member of IEEE International Conference 2022 on High Performance Computing and Communications (IEEE HPCC).
+* Local Chair of The 4th International Conference on Intelligent Technology and Embedded Systems (ICITES 2024).
+* General Chair of The 16th IEEE International Conference on Cyber, Physical and Social Computing (CPSCom 2023).
+* Executive Chair of The 24th IEEE International Conference on High Performance Computing & Communications (HPCC 2022).
+* Track Chair of The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022)
+* Guest Speaker of The 2nd International Conference on Intelligent Technology and Embedded Systems (ICITES 2022).
+* TPC Member of The IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom).
+* TPC Member of The IEEE International Conference on Cyber, Physical and Social Computing (IEEE CPSCom).
+* TPC Member of The IEEE International Conference on High Performance Computing & Communications (IEEE HPCC).
