@@ -32,4 +32,4 @@ author_profile: true
 12. **Cheng Dai**, Xingang Liu, Jinfeng Lai, Pan Li, Han-Chieh Chao. "Human behavior deep recognition architecture for smart city applications in the 5G environment". <span style="color: #FF0000"><i>IEEE Network</i></span>, 2019.
 
 ## Conference Papers
-1. **Cheng Dai**, Hongqiang Cheng, Xingang Liu. "A tucker decomposition based on adaptive genetic algorithm for efficient deep model compression". 2020 IEEE 22nd International Conference on High Performance Computing and Communications;(<span style="color: #FF0000"><i>HPCC</i></span>), 2020.
+1. **Cheng Dai**, Hongqiang Cheng, Xingang Liu. "A tucker decomposition based on adaptive genetic algorithm for efficient deep model compression". <i>The IEEE International Conference on High Performance Computing & Communications(<span style="color: #FF0000">HPCC 2020</i></span>), 2020.
