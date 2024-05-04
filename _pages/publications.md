@@ -7,6 +7,17 @@ author_profile: true
 \* indicates the corresponding author
 
 ## Journal Papers
+
+<style>
+    ul {
+        width: 90%; /* 设定列表的宽度 */
+        margin: auto; /* 让列表在页面中居中显示 */
+    }
+    li {
+        text-align: justify; /* 设置列表项为两端对齐 */
+    }
+</style>
+
 <ol reversed>
     <li>Shoupeng Lu, Peng Wang, Wenhui Zhu, <strong>Cheng Dai*</strong>, Ying Zhang, Chuanjie Liu, Shengxin Dai. "A Nonlocal Feature Self-Similarity Based Tensor Completion Method for Video Recovery". <span style="color: #FF0000"><em>Neurocomputing</em></span>, 2024.</li>
     <li><strong>Cheng Dai</strong>, Shoupeng Lu, Chao Ma, Sahil Garg, Mubarak Alrashoud. "An Adaptive Rank based Tensor Ring Data Completion Model for Intelligent Transportation Systems". <span style="color: #FF0000"><em>IEEE Transactions on Consumer Electronics</em></span>, 2024.</li>
