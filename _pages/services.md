@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Activity
 
-* Reviewer of National Nature Science Foundation of China.
+* Expert reviewer of National Nature Science Foundation of China.
 * Member of CCF TCEBS.
 * Local Chair of The 4th International Conference on Intelligent Technology and Embedded Systems (ICITES 2024).
 * General Chair of The 16th IEEE International Conference on Cyber, Physical and Social Computing (CPSCom 2023).
