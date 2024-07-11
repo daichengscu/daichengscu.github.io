@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* [2024.7] One of our submissions to <span style="color: #FF0000">IEEE Internet of Things Journal</span> gets Major Revision.
 * [2024.7] One of our submissions to <span style="color: #FF0000">Information Sciences</span> gets Major Revision.
 * [2024.7] One of our submissions to <span style="color: #FF0000">IEEE Transactions on Vehicular Technology</span> gets Major Revision.
 * [2024.6] One of our works is accepted by <span style="color: #FF0000">International Journal of Intelligent Systems</span>!
