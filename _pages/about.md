@@ -16,7 +16,6 @@ Sichuan University, China
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
-<!-- max of news is 15 -->
 News
 ======
 * [2024.7] One of our submissions to <span style="color: #FF0000">IEEE Internet of Things Journal</span> gets Major Revision.
