@@ -18,7 +18,7 @@ author_profile: true
     }
 </style>
 <ol reversed> 
-    <li>Xiaoding Wang, Jiadong Li, huilin Li, <strong>Cheng Dai*</strong>, Sahil Garg, Georges Kaddoum, "AEFL: Anonymous and Efficient Federated Learning in Vehicle Road Cooperation Systems with Augmented Intelligence of Things". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2024.</li>
+    <li>Xiaoding Wang, Jiadong Li, Huilin Li, <strong>Cheng Dai*</strong>, Sahil Garg, Georges Kaddoum, "AEFL: Anonymous and Efficient Federated Learning in Vehicle Road Cooperation Systems with Augmented Intelligence of Things". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2024.</li>
     <li>Long Qu, An Huang, Junqi Pan, <strong>Cheng Dai*</strong>, Sahil Garg, Mohammad Mehedi Hassan, "Deep Reinforcement Learning based Multi-Reconfigurable Intelligent Surface for MEC Offloading". <span style="color: #FF0000"><em>International Journal of Intelligent Systems</em></span>, 2024.</li>
     <li>Ximing Liu, Yayong Li, <strong>Cheng Dai*</strong>, Hong Zhang, "A Hierarchical Attention-based Feature Selection and Fusion Method for Credit Risk Assessment". <span style="color: #FF0000"><em>Future Generation Computer Systems</em></span>, 2024.</li>
     <li>Shoupeng Lu, Peng Wang, Wenhui Zhu, <strong>Cheng Dai*</strong>, Ying Zhang, Chuanjie Liu, Shengxin Dai. "A Nonlocal Feature Self-Similarity Based Tensor Completion Method for Video Recovery". <span style="color: #FF0000"><em>Neurocomputing</em></span>, 2024.</li>
