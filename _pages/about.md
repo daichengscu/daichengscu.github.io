@@ -33,8 +33,6 @@ News
 * [2024.3] One of our submissions to <span style="color: #FF0000">Future Generation Computer Systems</span> gets Major Revision.
 * [2024.3] One of our works is accepted by <span style="color: #FF0000">Neurocomputing</span>!
 * [2024.1] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Consumer Electronics</span>!
-* [2023.12] One of our works is accepted by <span style="color: #FF0000">Applied Soft Computing</span>!
-* [2023.12] One of our submissions to <span style="color: #FF0000">Neurocomputing</span> gets Major Revision.<br/>
 
 Research Interest
 ======
