@@ -19,6 +19,7 @@ author_profile: true
 </style>
 
 <ol reversed> 
+    <li>Banglie Yang, Sha Xiang, <strong>Cheng Dai*</strong>, Sahil Garg, Georges Kaddoum, "An Improved Reconstruction Based Multi-Attribute Contrastive Learning for Digital Twin-Enabled Industrial System". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2024.</li>
     <li><strong>Cheng Dai</strong>, Shuai Wei, Shengxin Dai, Sahil Garg, Georges Kaddoum, M. Shamim Hossain, "Federated Self-supervised Learning based on Prototypes Clustering Contrastive Learning for Internet-of-Vehicles Applications". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2024.</li>
     <li>Xiaoding Wang, Jiadong Li, Huilin Li, <strong>Cheng Dai*</strong>, Sahil Garg, Georges Kaddoum, "AEFL: Anonymous and Efficient Federated Learning in Vehicle Road Cooperation Systems with Augmented Intelligence of Things". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2024.</li>
     <li>Long Qu, An Huang, Junqi Pan, <strong>Cheng Dai*</strong>, Sahil Garg, Mohammad Mehedi Hassan, "Deep Reinforcement Learning based Multi-Reconfigurable Intelligent Surface for MEC Offloading". <span style="color: #FF0000"><em>International Journal of Intelligent Systems</em></span>, 2024.</li>
