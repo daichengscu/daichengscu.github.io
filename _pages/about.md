@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* [2025.1] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Vehicular Technology</span>!
 * [2024.12] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>!
 * [2024.12] One of our works is accepted by <span style="color: #FF0000">IEEE Internet of Things Journal</span>!
 * [2024.10] One of our works is accepted by <span style="color: #FF0000">Neurocomputing</span>!
