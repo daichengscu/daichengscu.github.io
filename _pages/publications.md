@@ -19,6 +19,7 @@ author_profile: true
 </style>
 
 <ol reversed> 
+    <li>Shoupeng Lu, Hao Yin, Peng Wang, Tianli Zhu, <strong>Cheng Dai*</strong>, Shenxin Dai, Bing Guo, "Clustered Federated Learning with Adaptive Pruning for 6G Edge-Intelligent Transportation". <span style="color: #FF0000"><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, 2025.</li>
     <li>Wei-Che Chien, Songlin Chen, <strong>Cheng Dai*</strong>, "Multi-objective Optimization for Dynamic Resource Allocation in Heterogeneous Unmanned Aerial VehicleBase Station". <span style="color: #FF0000"><em>IEEE Transactions on Vehicular Technology</em></span>, 2024.</li>
     <li><strong>Cheng Dai</strong>, Sha Xiang, Lipeng Xie, Sahil Garg, Georges Kaddoum, Mohammad Mehedi Hassan, "An Improved Nonlinear Precoding Scheme in Multicarrier Signaling Optimization for Transportation Networks Applications". <span style="color: #FF0000"><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, 2024.</li>
     <li>Wei-Che Chien, Chih-Hsun Lin, Tianli Zhu, <strong>Cheng Dai*</strong>, Sahil Garg, Amrit Mukherjee, "Density-Clustering Aggregation for Personalized Federated Learning with AI-Enabled Aerial and Edge Computing in UAVs". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2024.</li>
