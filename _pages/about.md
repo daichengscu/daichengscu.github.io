@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* [2025.2] One of our works is accepted by <span style="color: #FF0000">Knowledge-Based Systems</span>!
 * [2025.2] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>!
 * [2024.12] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Vehicular Technology</span>!
 * [2024.12] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>!
@@ -32,10 +33,7 @@ News
 * [2024.7] One of our submissions to <span style="color: #FF0000">Neurocomputing</span> gets Major Revision.
 * [2024.7] One of our submissions to <span style="color: #FF0000">IEEE Internet of Things Journal</span> gets Minor Revision.
 * [2024.7] One of our submissions to <span style="color: #FF0000">IEEE Internet of Things Journal</span> gets Major Revision.
-* [2024.7] One of our submissions to <span style="color: #FF0000">Information Sciences</span> gets Major Revision.
-* [2024.7] One of our submissions to <span style="color: #FF0000">IEEE Transactions on Vehicular Technology</span> gets Major Revision.
-* [2024.6] One of our works is accepted by <span style="color: #FF0000">International Journal of Intelligent Systems</span>!
-* [2024.6] One of our works is accepted by <span style="color: #FF0000">Future Generation Computer Systems</span>!
+
 
 
 

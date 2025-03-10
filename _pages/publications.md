@@ -19,6 +19,8 @@ author_profile: true
 </style>
 
 <ol reversed> 
+    <li>Banglie Yang, Runze Li, Yijing Wang, Sha Xiang, Shuo Zhu, <strong>Cheng Dai*</strong>, Shengxin Dai, Bing Guo, "Cross-City Transfer Learning for Traffic Forecasting via Incremental Distribution Rectification". <span style="color: #FF0000"><em>Knowledge-Based Systems</em></span>, 2025.</li>
+
     <li>Shoupeng Lu, Hao Yin, Peng Wang, Tianli Zhu, <strong>Cheng Dai*</strong>, Shenxin Dai, Bing Guo, "Clustered Federated Learning with Adaptive Pruning for 6G Edge-Intelligent Transportation". <span style="color: #FF0000"><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, 2025.</li>
     <li>Wei-Che Chien, Songlin Chen, <strong>Cheng Dai*</strong>, "Multi-objective Optimization for Dynamic Resource Allocation in Heterogeneous Unmanned Aerial VehicleBase Station". <span style="color: #FF0000"><em>IEEE Transactions on Vehicular Technology</em></span>, 2024.</li>
     <li><strong>Cheng Dai</strong>, Sha Xiang, Lipeng Xie, Sahil Garg, Georges Kaddoum, Mohammad Mehedi Hassan, "An Improved Nonlinear Precoding Scheme in Multicarrier Signaling Optimization for Transportation Networks Applications". <span style="color: #FF0000"><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, 2024.</li>
