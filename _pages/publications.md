@@ -19,7 +19,7 @@ author_profile: true
 </style>
 
 <ol reversed> 
-    <li><strong>Cheng Dai</strong>, Song Bao, Songlin Chen, Sahil Garg, Georges Kaddoum, Mohammad MehediHassan, "Precision-Adaptive Task Offloading and Resource Allocation for Efficient Positioning and Sensing in Near-Field IoV Systems". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2025.</li>
+    <li><strong>Cheng Dai</strong>, Song Bao, Songlin Chen, Sahil Garg, Georges Kaddoum, Mohammad Mehedi Hassan, "Precision-Adaptive Task Offloading and Resource Allocation for Efficient Positioning and Sensing in Near-Field IoV Systems". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2025.</li>
     <li><strong>Cheng Dai</strong>, Tianli Zhu, Sha Xiang, Lipeng Xie, Sahil Garg, M. Shamim Hossain, "PSFL: Personalized Split Federated Learning Framework for Distributed Model Training in Intelligent Transportation Systems". <span style="color: #FF0000"><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, 2025.</li>
     <li>Banglie Yang, Runze Li, Yijing Wang, Sha Xiang, Shuo Zhu, <strong>Cheng Dai*</strong>, Shengxin Dai, Bing Guo, "Cross-City Transfer Learning for Traffic Forecasting via Incremental Distribution Rectification". <span style="color: #FF0000"><em>Knowledge-Based Systems</em></span>, 2025.</li>
     <li>Shoupeng Lu, Hao Yin, Peng Wang, Tianli Zhu, <strong>Cheng Dai*</strong>, Shenxin Dai, Bing Guo, "Clustered Federated Learning with Adaptive Pruning for 6G Edge-Intelligent Transportation". <span style="color: #FF0000"><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, 2025.</li>
