@@ -47,7 +47,7 @@ author_profile: true
     <li><strong>Cheng Dai</strong>, Xingang Liu, Jinfeng Lai, Pan Li, Han-Chieh Chao, "Human behavior deep recognition architecture for smart city applications in the 5G environment". <span style="color: #FF0000"><em>IEEE Network</em></span>, 2019.</li>
 </ol>
 
-<!-- <style>
+<style>
     ul {
         width: 90%; /* 设定列表的宽度 */
         margin: auto; /* 让列表在页面中居中显示 */
@@ -55,10 +55,10 @@ author_profile: true
     li {
         text-align: justify; /* 设置列表项为两端对齐 */
     }
-</style> -->
+</style>
 
 ## Conference Papers
-<ol reversed> 
-    <li>Peng Wang, Shoupeng Lu, Hao Yin, Banglie Yang, Tianli Zhu, <strong>Cheng Dai*</strong>, "FedCM: Client Clustering and Migration in Federated Learning via Gradient Path Similarity and Update Direction Deviation". <i>The International Joint Conference on Artificial Intelligence (<span style="color: #FF0000">IJCAI</span>), 2025.</li>
-    <li><strong>Cheng Dai</strong>, Hongqiang Cheng, Xingang Liu, "A tucker decomposition based on adaptive genetic algorithm for efficient deep model compression". <i>The IEEE International Conference on High Performance Computing & Communications(<span style="color: #FF0000">HPCC</span>)</i>, 2020.</li>
+<ol reversed>
+    <li>Peng Wang, Shoupeng Lu, Hao Yin, Banglie Yang, Tianli Zhu, <strong>Cheng Dai*</strong>, "FedCM: Client Clustering and Migration in Federated Learning via Gradient Path Similarity and Update Direction Deviation". <em>The International Joint Conference on Artificial Intelligence (<span style="color: #FF0000">IJCAI</span>)</em>, 2025.</li>
+    <li><strong>Cheng Dai</strong>, Hongqiang Cheng, Xingang Liu, "A tucker decomposition based on adaptive genetic algorithm for efficient deep model compression". <em>The IEEE International Conference on High Performance Computing & Communications (<span style="color: #FF0000">HPCC</span>)</em>, 2020.</li>
 </ol>
