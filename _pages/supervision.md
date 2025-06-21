@@ -20,6 +20,11 @@ author_profile: true
 * Sha Xiang, Master Student
 
 ## Undergraduate Students
-### 2023
+<!-- ### 2023 -->
 * Peng Wang, Undergraduate Student
-* Linyu Zhu, Undergraduate Student
+* Runze Li, Undergraduate Student
+* Hao Yin, Undergraduate Student
+* Shuo Zhu, Undergraduate Student
+* Chao Wang, Undergraduate Student
+* Weishen Zhang, Undergraduate Student
+
