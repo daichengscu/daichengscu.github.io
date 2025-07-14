@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* [2025.7] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Industrial Informatics</span>!
 * [2025.4] One of our works is accepted by <span style="color: #FF0000">IJCAI 2025</span>!
 * [2025.4] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>!
 * [2025.3] One of our works is accepted by <span style="color: #FF0000">IEEE Internet of Things Journal</span>!
@@ -32,7 +33,6 @@ News
 * [2024.8] One of our submissions to <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span> gets Major Revision.
 * [2024.8] One of our works is accepted by <span style="color: #FF0000">IEEE Internet of Things Journal</span>!
 * [2024.8] One of our submissions to <span style="color: #FF0000">IEEE Internet of Things Journal</span> gets Major Revision.
-* [2024.8] One of our submissions to <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span> gets Major Revision.
 
 
 

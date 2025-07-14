@@ -22,6 +22,7 @@ author_profile: true
 ## 2025
 
 <ol reversed> 
+    <li><strong>Cheng Dai</strong>, Shoupeng Lu, Peng Wang, Hao Yin, Yijing Wang, Xianggen Liu, Bing Guo, "Client Selection in Federated Learning for Industry 5.0: A Heuristic-Guided Pointer Network Reinforcement Learning Approach". <span style="color: #FF0000"><em>IEEE Transactions on Industrial Informatics</em></span>, 2025.</li>
     <li>Peng Wang, Shoupeng Lu, Hao Yin, Banglie Yang, Tianli Zhu, <strong>Cheng Dai*</strong>, "FedCM: Client Clustering and Migration in Federated Learning via Gradient Path Similarity and Update Direction Deviation". <em>The International Joint Conference on Artificial Intelligence (<span style="color: #FF0000">IJCAI</span>)</em>, 2025.</li>
     <li><strong>Cheng Dai</strong>, Guangdong He, Bing Guo, Sahil Garg, Georges Kaddoum, Mohammad Mehedi Hassan, "Position-Aware Structural Knowledge Sharing Based Federated Graph Learning for Intelligent Transportation Systems". <span style="color: #FF0000"><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, 2025.</li>
     <li><strong>Cheng Dai</strong>, Song Bao, Songlin Chen, Sahil Garg, Georges Kaddoum, Mohammad Mehedi Hassan, "Precision-Adaptive Task Offloading and Resource Allocation for Efficient Positioning and Sensing in Near-Field IoV Systems". <span style="color: #FF0000"><em>IEEE Internet of Things Journal</em></span>, 2025.</li>
