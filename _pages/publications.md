@@ -19,6 +19,19 @@ author_profile: true
     }
 </style>
 
+## 2026
+
+<ol reversed> 
+    <li>李宣莹, <strong>代成*</strong>, "基于正交谱时解耦的反馈式层级不规则多元时序网络". <span style="color: #FF0000"><em>计算机工程</em></span>, 2026.</li>
+    <li>王朝, 王怡静, <strong>代成*</strong>, "DenoiseCAD: 层次化纯化的持续异常检测". <span style="color: #FF0000"><em>计算机工程</em></span>, 2026.</li>
+    <li>Wei-Che Chien, Yu Huang, <strong>Cheng Dai*</strong>, Xingang Liu, Kuljeet Kaur, Mubarak Alrashoud, "Federated Multimodal Bi-LSTM for Agentic Handover in 6G Heterogeneous Networks". <span style="color: #FF0000"><em>IEEE Network Magazine</em></span>, 2026.</li>
+    <li>Jian Xu, Tianli Zhu, <strong>Cheng Dai</strong>, Bing Guo, Fei Chen, Sherif Moussa, Xingang Liu, "FedGAW: Federated Learning With Insights of Gradient Based Update for Heterogeneous Devices". <span style="color: #FF0000"><em>IEEE Transactions on Vehicular Technology</em></span>, 2026.</li>
+    <li>Chao Wang, Xuanying Li, <strong>Cheng Dai</strong>, Jinglei Feng, Yuxiang Luo, Hao Qin, Yuqi Ouyang, "Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing". <span style="color: #FF0000"><em>IEEE Signal Processing Letters</em></span>, Volume: 33, 2026.</li>
+    <li>张炜绅, <strong>代成*</strong>, 刘川杰, 陈松林, "基于动态结构重塑与自适应融合指导的知识蒸馏方法". <span style="color: #FF0000"><em>计算机工程</em></span>, 2026.</li>
+    <li><strong>Cheng Dai</strong>, Sha Xiang, Banglie Yang, Shoupeng Lu, Xingang Liu, Lipeng Xie, Yue Wang*, "FreqResNet: Frequency-Aware Resonance Network for multivariate time series forecasting". <span style="color: #FF0000"><em>Knowledge-Based Systems</em></span>, 349 (2026) 116529, 2026.</li>
+    <li><strong>Cheng Dai</strong>, Junqi Pan, Xianggen Liu, Sahil Garg, Sherif Moussa, Chahinaz Kandouci, "An Enhanced MADDPG Framework for Joint Energy and QoS Optimization in UAV-assisted Vehicular Edge Computing System". <span style="color: #FF0000"><em>Applied Energy</em></span>, vol. 409, issue C, No S030626192600022X, 2026.</li>
+</ol>
+
 ## 2025
 
 <ol reversed> 
