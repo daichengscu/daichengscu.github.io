@@ -18,6 +18,14 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* [2026.9] One of our works is accepted by <span style="color: #FF0000">Knowledge-Based Systems</span>!
+* [2026.6] One of our works is accepted by <span style="color: #FF0000">计算机工程</span>!
+* [2026.6] One of our works is accepted by <span style="color: #FF0000">IEEE Signal Processing Letters</span>!
+* [2026.5] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Vehicular Technology</span>!
+* [2026.5] One of our works is accepted by <span style="color: #FF0000">计算机工程</span>!
+* [2026.4] One of our works is accepted by <span style="color: #FF0000">IEEE Network Magazine</span>!
+* [2026.4] One of our works is accepted by <span style="color: #FF0000">Applied Energy</span>!
+* [2026.1] One of our works is accepted by <span style="color: #FF0000">计算机工程</span>!
 * [2025.9] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Intelligent Transportation Systems</span>!
 * [2025.7] One of our works is accepted by <span style="color: #FF0000">IEEE Internet of Things Journal</span>!
 * [2025.7] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Industrial Informatics</span>!
