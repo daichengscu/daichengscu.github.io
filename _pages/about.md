@@ -23,6 +23,7 @@ News
 * [2026.6] One of our works is accepted by <span style="color: #FF0000">IEEE Signal Processing Letters</span>!
 * [2026.5] One of our works is accepted by <span style="color: #FF0000">IEEE Transactions on Vehicular Technology</span>!
 * [2026.5] One of our works is accepted by <span style="color: #FF0000">计算机工程</span>!
+* [2026.5] One of our works is accepted by <span style="color: #FF0000">ICDE 2026</span>!
 * [2026.4] One of our works is accepted by <span style="color: #FF0000">IEEE Network Magazine</span>!
 * [2026.4] One of our works is accepted by <span style="color: #FF0000">Applied Energy</span>!
 * [2026.1] One of our works is accepted by <span style="color: #FF0000">计算机工程</span>!
