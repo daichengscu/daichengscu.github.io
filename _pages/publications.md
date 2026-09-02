@@ -30,6 +30,7 @@ author_profile: true
     <li>张炜绅, <strong>代成*</strong>, 刘川杰, 陈松林, "基于动态结构重塑与自适应融合指导的知识蒸馏方法". <span style="color: #FF0000"><em>计算机工程</em></span>, 2026.</li>
     <li><strong>Cheng Dai</strong>, Sha Xiang, Banglie Yang, Shoupeng Lu, Xingang Liu, Lipeng Xie, Yue Wang*, "FreqResNet: Frequency-Aware Resonance Network for multivariate time series forecasting". <span style="color: #FF0000"><em>Knowledge-Based Systems</em></span>, 349 (2026) 116529, 2026.</li>
     <li><strong>Cheng Dai</strong>, Junqi Pan, Xianggen Liu, Sahil Garg, Sherif Moussa, Chahinaz Kandouci, "An Enhanced MADDPG Framework for Joint Energy and QoS Optimization in UAV-assisted Vehicular Edge Computing System". <span style="color: #FF0000"><em>Applied Energy</em></span>, vol. 409, issue C, No S030626192600022X, 2026.</li>
+    <li>Yang, Banglie and Deng, Liwei and Dai, Cheng and Zheng, Kai, "Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction". <span style="color: #FF0000"><em>International Conference on Data Engineering </em></span>, 2026.</li>
 </ol>
 
 ## 2025
